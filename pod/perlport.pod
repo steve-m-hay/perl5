@@ -1036,11 +1036,6 @@ as L<perlcygwin>), L<https://www.cygwin.com/>
 
 =item *
 
-The U/WIN environment for Win32,
-L<http://www.research.att.com/sw/tools/uwin/>
-
-=item *
-
 Build instructions for OS/2, L<perlos2>
 
 =back
